@@ -3,8 +3,9 @@
     const img2 = "/images/2.jpg";
     const img3 = "/images/3.jpg";
 
-
+    
     const HERO = "/images/hero.webp";
+    
     
   </script>
 
@@ -135,5 +136,4 @@
 
   </div>
 </section>
-
 
